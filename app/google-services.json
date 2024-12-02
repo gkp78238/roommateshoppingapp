@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775759817066",
+    "project_id": "roommateshoppingapp-b7b14",
+    "storage_bucket": "roommateshoppingapp-b7b14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775759817066:android:c0af0c3fed4af5d8fb9d13",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.roommateshoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_tZ4bPgh4q2dYyPJoKKtb4i8qGrOYpPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
